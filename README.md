@@ -2,7 +2,7 @@
 
 > A list of resources for awesome civic software tools, libraries, and applications.
 
-Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
+Inspired by the [awesome](#more-awesome) list. Feel free to [improve](CONTRIBUTING.md) this list.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
     - [Who to follow](#who-to-follow)
     - [Icons](#icons)
 - [More awesome](#more-awesome)
-- <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
+- [Contribution Guidelines](CONTRIBUTING.md)
 
 ## Data
 
