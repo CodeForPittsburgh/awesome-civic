@@ -100,4 +100,4 @@ Civic hackers doing interesting things on GitHub.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [@codeforhawaii](https://github.com/codeforhawaii) and all its contributors have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [@codeforhawaii](https://github.com/codeforhawaii), [@codeforpgh](https://github.com/codeforpittsburgh) and all its contributors have waived all copyright and related or neighboring rights to this work.
