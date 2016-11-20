@@ -7,6 +7,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to [improve](CONTRIBUTI
 ## Table of Contents
 
 - [Awesome Civic](#awesome-civic)
+    - [Civic Tech Organizations in Pittsburgh](#civic-tech)
     - [Data](#data)
     - [Tools](#tools)
     - [Applications](#applications)
@@ -17,8 +18,15 @@ Inspired by the [awesome](#more-awesome) list. Feel free to [improve](CONTRIBUTI
 - [More awesome](#more-awesome)
 - [Contribution Guidelines](CONTRIBUTING.md)
 
+## Civic Tech Organizations in Pittsburgh
+
+- [Western Pennsylvania Regional Data Center](http://www.wprdc.org/)
+- [Carnegie Library of Pittsburgh](http://www.carnegielibrary.org/)
+- [Code & Supply](http://www.codeandsupply.co/)
+
 ## Data
 
+- [Western Pennsylvania Regional Data Center](http://www.wprdc.org/)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ## Tools
