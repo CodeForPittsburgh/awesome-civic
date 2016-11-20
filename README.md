@@ -7,7 +7,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to [improve](CONTRIBUTI
 ## Table of Contents
 
 - [Awesome Civic](#awesome-civic)
-    - [Civic Tech Organizations in Pittsburgh](#civic-tech)
+    - [Civic Tech Organizations in Pittsburgh](#civic-tech-organizations-in-pittsburgh)
     - [Data](#data)
     - [Tools](#tools)
     - [Applications](#applications)
