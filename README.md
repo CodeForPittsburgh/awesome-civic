@@ -1,6 +1,6 @@
 # Awesome Civic Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A list of resources for awesome civic software tools, libraries, and applications.
+> A list of resources for awesome **civic** software tools, libraries, and applications.
 
 Inspired by the [awesome](#more-awesome) list. Feel free to [improve](CONTRIBUTING.md) this list.
 
